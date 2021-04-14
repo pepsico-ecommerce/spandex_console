@@ -4,6 +4,8 @@ This library provides a [Spandex](https://hexdocs.pm/spandex/readme.html) tracer
 that displays all generated traces and spans in the console. This library is intended for
 local development usage **ONLY**, and **SHOULD NOT** be used in a production environment.
 
+![usage screenshot](images/screenshot.png)
+
 ## Installation
 
 ```elixir
